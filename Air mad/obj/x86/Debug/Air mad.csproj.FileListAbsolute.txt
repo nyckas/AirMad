@@ -1,0 +1,16 @@
+C:\Users\ITU\Documents\SharpDevelop Projects\Air mad\Air mad\bin\Debug\Air mad.exe
+C:\Users\ITU\Documents\SharpDevelop Projects\Air mad\Air mad\bin\Debug\Air mad.pdb
+C:\Users\ITU\Documents\SharpDevelop Projects\Air mad\Air mad\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ITU\Documents\SharpDevelop Projects\Air mad\Air mad\obj\x86\Debug\Air mad.exe
+C:\Users\ITU\Documents\SharpDevelop Projects\Air mad\Air mad\obj\x86\Debug\Air mad.pdb
+C:\Users\ITU\Documents\SharpDevelop Projects\Air mad\Air mad\obj\x86\Debug\Air_mad.MainForm.resources
+C:\Users\ITU\Documents\SharpDevelop Projects\Air mad\Air mad\obj\x86\Debug\Air mad.csproj.GenerateResource.Cache
+C:\Users\ITU\Documents\SharpDevelop Projects\Air mad\Air mad\obj\x86\Debug\Air_mad.Form1.resources
+D:\BOSSY\S4\PROGRAMMATION\Air mad\Air mad\obj\x86\Debug\Air mad.exe
+D:\BOSSY\S4\PROGRAMMATION\Air mad\Air mad\obj\x86\Debug\Air mad.pdb
+D:\BOSSY\S4\PROGRAMMATION\Air mad\Air mad\bin\Debug\Air mad.exe
+D:\BOSSY\S4\PROGRAMMATION\Air mad\Air mad\bin\Debug\Air mad.pdb
+D:\BOSSY\S4\PROGRAMMATION\Air mad\Air mad\obj\x86\Debug\Air mad.csprojResolveAssemblyReference.cache
+D:\BOSSY\S4\PROGRAMMATION\Air mad\Air mad\obj\x86\Debug\Air_mad.Form1.resources
+D:\BOSSY\S4\PROGRAMMATION\Air mad\Air mad\obj\x86\Debug\Air_mad.MainForm.resources
+D:\BOSSY\S4\PROGRAMMATION\Air mad\Air mad\obj\x86\Debug\Air mad.csproj.GenerateResource.Cache

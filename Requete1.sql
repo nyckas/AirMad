@@ -1,0 +1,1 @@
+update Avion set capacite='70' where id='AV002'
